@@ -1,0 +1,82 @@
+{
+  "version": 2,
+  "skills": {
+    "email-smtp-send": {
+      "source": "tiangong-ai/agent-skills",
+      "commit": "25db71e95c2650ec6279529f236e41fb5ef6cb97",
+      "sourceType": "github",
+      "skillPath": "email-smtp-send/SKILL.md",
+      "computedHash": "d9f3bf70423c117a48af87f2462912d803e3dbe35db954692c707ec623618c05"
+    },
+    "framer-motion-animator": {
+      "source": "patricio0312rev/skills",
+      "commit": "79ea6af485698b31060b63f0066f712560757b29",
+      "sourceType": "github",
+      "skillPath": "frontend/framer-motion-animator/SKILL.md",
+      "computedHash": "2f47c7af86096e9fe96c15d4e9e0b5e3462dcd549796402366e62343e4884c32"
+    },
+    "nextjs-app-router-patterns": {
+      "source": "wshobson/agents",
+      "commit": "9c61ab243def98f72da12abd41cfcf5bcd91af9d",
+      "sourceType": "github",
+      "skillPath": "plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md",
+      "computedHash": "39b84480d3a62355fd1199173dc70b97efe1daf6dbfae560cc7b85e127934a98"
+    },
+    "posthog-instrumentation": {
+      "source": "PostHog/posthog-for-claude",
+      "commit": "4122119322584efc7a3e483b9c1cc2e4903ebeec",
+      "sourceType": "github",
+      "skillPath": "skills/posthog-instrumentation/SKILL.md",
+      "computedHash": "b5cd0a9913c6cb0ddfe0a954fa1b1061dd81dd7d44fedb53db46ba8b14437368"
+    },
+    "react-email": {
+      "source": "resend/react-email",
+      "commit": "f27d9e20825233cf7152053590b8dbd9bcf848ad",
+      "sourceType": "github",
+      "skillPath": "skills/react-email/SKILL.md",
+      "computedHash": "a8c0238afbc32c6c279b5594cea69e11e53f591dec16bb60d8c77e26fb4bc672"
+    },
+    "recharts": {
+      "source": "andy-spike/skills",
+      "commit": "2737eadc3b88390775e71b4e0e4c5e1571607409",
+      "sourceType": "github",
+      "skillPath": "skills/recharts/SKILL.md",
+      "computedHash": "a2c9d5fd941c2fb7596dd1b2ad1e9eb000b2a2efdc57539990ad56ba580550a6"
+    },
+    "stripe-best-practices": {
+      "source": "stripe/ai",
+      "commit": "9d6c33b367f2c823cb3c88d991cafdd3402ceeb0",
+      "sourceType": "github",
+      "skillPath": "skills/stripe-best-practices/SKILL.md",
+      "computedHash": "d0de758f5762cf6b7b697deb3bf5b11cd5b981167b73bcc5c3e73e895ec33dcc"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "sourceType": "github",
+      "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
+      "computedHash": "3eb972c2d7c818e544e35cc33ea8d7147d4d78ae08142ef40037b0fbac7a2505"
+    },
+    "tailwind-4-docs": {
+      "source": "Lombiq/Tailwind-Agent-Skills",
+      "commit": "634ec184c36e495fae1d8cf7975df7e6969e3a89",
+      "sourceType": "github",
+      "skillPath": "skills/tailwind-4-docs/SKILL.md",
+      "computedHash": "263961b82698e3defdb26dd6a1b7328044517e67a3bbe91c1b33bb2a4273f4ee"
+    },
+    "zod": {
+      "source": "pproenca/dot-skills",
+      "commit": "cf93c57cac89d6fc3e4194686000411567f5caf3",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/zod/SKILL.md",
+      "computedHash": "0dda8a9c32affa99f4981924798d7399f0f5bd3ecc37910cfc4b05f260f442cd"
+    },
+    "zustand": {
+      "source": "lobehub/lobehub",
+      "commit": "ec3b74b63d4a0f247bf69f69ec4498eecb64e9e7",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/zustand/SKILL.md",
+      "computedHash": "188ee251ff36d9bdceda4b11f8fe1964f87509168abae7e956f4e6170f2e45dd"
+    }
+  }
+}
